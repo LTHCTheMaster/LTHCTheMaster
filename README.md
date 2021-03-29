@@ -9,7 +9,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LTHCTheMaster&hide=issues&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTHCTheMaster&layout=compact&theme=radical"/>
-  <img sr="https://github-readme-stats.vercel.app/api/pin/?username=LTHCTheMaster&repo=LTHC-PIYN-Lang&theme=radical"/>
 </div>
 <hr/>
 <div align="center">
