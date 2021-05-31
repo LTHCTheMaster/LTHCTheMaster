@@ -17,4 +17,3 @@
     In high school, I choose to study for years 2020-2021, Digital and computer science, and, Math, and, Literature, languages ​​and foreign cultures in English
 <div/>
 <br/>
-  <a href="https://lthcthemaster.github.io/lthcthemasterwebsite/">LTHC The Master Website</a>
