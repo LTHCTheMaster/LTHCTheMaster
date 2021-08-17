@@ -8,8 +8,6 @@
   <br/>
   I'm also the creator of the following Github Organization: <a href="https://github.com/L-Lang-Of-LTHC">L Lang Of LTHC<a/>
   <br/>
-  A discord server for my projects: <a href=https://discord.gg/TfEpX2PKKA>click here<a/>
-  <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LTHCTheMaster&hide=issues&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTHCTheMaster&layout=compact&theme=radical"/>
