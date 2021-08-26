@@ -11,7 +11,12 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=LTHCTheMaster&hide=issues&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTHCTheMaster&layout=compact&theme=radical"/>
-</div>
+  <br/>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/ width="150px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/ width="150px">
+  </div>
+  </div>
 <hr/>
 <div align="center">
     In high school, I choose to study for years 2020-2021, Digital and computer science, and, Math, and, Literature, languages ​​and foreign cultures in English
