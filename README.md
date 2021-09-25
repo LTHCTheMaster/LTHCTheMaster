@@ -19,6 +19,8 @@
   </div>
 <hr/>
 <div align="center">
-    In high school, I choose to study for years 2020-2021, Digital and computer science, and, Math, and, Literature, languages ​​and foreign cultures in English
+    In high school, I choose to study for years 2020-2021, Digital and computer science, and, Math, and, Literature, languages and foreign cultures in English
+  
+    In high school, I choose to study for years 2021-2022, Digital and computer science, and, Math
 <div/>
 <br/>
