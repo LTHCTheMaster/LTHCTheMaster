@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LTHCTheMaster&hide=issues&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTHCTheMaster&layout=compact&theme=radical"/>
   <br/>
-  <a href="https://github.com/LTHC-s-Datapack/LTHC-s-Magic-And-Spells-Universe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LTHC-s-Datapack&repo=lthc-s-magic-and-spells-universe&theme=radical"/></a>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/ width="150px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/ width="150px">
