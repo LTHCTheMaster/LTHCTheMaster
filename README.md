@@ -14,8 +14,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="150px"/>
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LTHCTheMaster&repo=MineChemistry-CraftIndustries&theme=blue-green" width="150px"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LTHCTheMaster&repo=The-Advancenergy&theme=blue-green" width="150px"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LTHCTheMaster&repo=MineChemistry-CraftIndustries&theme=blue-green"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LTHCTheMaster&repo=The-Advancenergy&theme=blue-green"/>
   </div>
   </div>
 <br/>
